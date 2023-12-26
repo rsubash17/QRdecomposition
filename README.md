@@ -53,8 +53,7 @@ QR_Decomposition(a)
 
 ## Output
 ```
-![image](https://github.com/rsubash17/QRdecomposition/assets/147139828/b4900646-2a3a-4c82-ad83-f16e659ffff7)
-
+![Screenshot 2023-12-26 222014](https://github.com/rsubash17/QRdecomposition/assets/147139828/935b3a0e-cfa6-411a-91b9-bb12bcab889e)
 ```
 
 ## Result
